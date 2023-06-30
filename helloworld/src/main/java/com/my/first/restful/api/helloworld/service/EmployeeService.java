@@ -2,7 +2,6 @@ package com.my.first.restful.api.helloworld.service;
 
 
 import java.util.List;
-import org.springframework.http.ResponseEntity;
 
 import com.my.first.restful.api.helloworld.model.Employee;
 
